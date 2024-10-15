@@ -14,4 +14,4 @@
 Создать статическую копию сайта в каталоге `build/` 
 
 
-![Скриншот приложения](https://bakoomwak.ru/projects/todo/preview.png)
+![Скриншот приложения](https://bakoomwak.ru/projects/todoapp/preview.png)
