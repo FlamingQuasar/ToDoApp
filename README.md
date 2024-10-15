@@ -12,3 +12,6 @@
 ### npm run build
 
 Создать статическую копию сайта в каталоге `build/` 
+
+
+![Скриншот приложения](https://bakoomwak.ru/projects/todo/preview.png)
